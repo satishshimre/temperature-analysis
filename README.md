@@ -21,5 +21,5 @@ The goal of this project is to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/temperature-prediction.git
+git clone https://github.com/satishshimre/temperature-prediction.git
 cd temperature-prediction
